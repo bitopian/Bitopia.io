@@ -54,6 +54,9 @@ pinterest_url:
 slack_url:
 dribbble_url:
 
+plugins:
+  - jekyll-sitemap
+
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
